@@ -14,13 +14,13 @@ branches:
 before_install:
   - export TZ='Asia/Shanghai'   # 配置时区为东八区 UTC+8
   - npm install hexo-cli        # 安装 hexo
+  - git clone https://github.com/feifacunzai/hexo-theme-keep ./theme/keep
 
 install:
   - npm install                 # 安装 hexo 项目相关的依赖
 
 # 执行脚本 
 script:                         
-  - git clone https://github.com/feifacunzai/hexo-theme-keep ./theme
   - hexo clean                  # 清除 hexo 缓存
   - hexo generate -d              # 生成静态文件
 
