@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2021-05-05T10:28:21.995Z</updated>
+  <updated>2021-05-05T11:04:55.781Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="http://example.com/2021/05/05/Release_1.0.4/"/>
     <id>http://example.com/2021/05/05/Release_1.0.4/</id>
     <published>2021-05-05T08:18:55.000Z</published>
-    <updated>2021-05-05T10:28:21.995Z</updated>
+    <updated>2021-05-05T11:04:55.781Z</updated>
     
     <content type="html"><![CDATA[<ul><li>修正文章內的文字斷行異常</li><li>修正文章內的表格過長會導致卷軸出錯的異常</li></ul>]]></content>
     
