@@ -20,6 +20,7 @@ install:
 
 # 执行脚本 
 script:                         
+  - git clone https://github.com/feifacunzai/hexo-theme-keep ./theme
   - hexo clean                  # 清除 hexo 缓存
   - hexo generate -d              # 生成静态文件
 
