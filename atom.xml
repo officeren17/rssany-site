@@ -6,7 +6,7 @@
   <link href="https://officeren17.github.io/rssany-site/atom.xml" rel="self"/>
   
   <link href="https://officeren17.github.io/rssany-site/"/>
-  <updated>2021-05-05T13:05:43.344Z</updated>
+  <updated>2021-05-05T13:17:11.328Z</updated>
   <id>https://officeren17.github.io/rssany-site/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://officeren17.github.io/rssany-site/2021/05/05/Release_1.0.4/"/>
     <id>https://officeren17.github.io/rssany-site/2021/05/05/Release_1.0.4/</id>
     <published>2021-05-05T08:18:55.000Z</published>
-    <updated>2021-05-05T13:05:43.344Z</updated>
+    <updated>2021-05-05T13:17:11.328Z</updated>
     
     <content type="html"><![CDATA[<ul><li>修正文章內的文字斷行異常</li><li>修正文章內的表格過長會導致卷軸出錯的異常</li></ul>]]></content>
     
