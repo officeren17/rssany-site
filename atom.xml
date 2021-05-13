@@ -6,7 +6,7 @@
   <link href="https://officeren17.github.io/rssany-site/atom.xml" rel="self"/>
   
   <link href="https://officeren17.github.io/rssany-site/"/>
-  <updated>2021-05-09T15:27:08.344Z</updated>
+  <updated>2021-05-13T16:42:32.265Z</updated>
   <id>https://officeren17.github.io/rssany-site/</id>
   
   <author>
@@ -17,11 +17,37 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>Release 1.0.5</title>
+    <link href="https://officeren17.github.io/rssany-site/2021/05/14/Release_1.0.5/"/>
+    <id>https://officeren17.github.io/rssany-site/2021/05/14/Release_1.0.5/</id>
+    <published>2021-05-13T17:39:22.000Z</published>
+    <updated>2021-05-13T16:42:32.265Z</updated>
+    
+    <content type="html"><![CDATA[<ul><li>修改來源頁訂閱的顯示方式</li><li>將資源頁訂閱項目的圖示加入外邊框園角</li><li>內文頁加強文字的換行規則和上下邊距</li><li>解析器設定頁調整資料更新間隔時間的位置</li></ul>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;ul&gt;
+&lt;li&gt;修改來源頁訂閱的顯示方式&lt;/li&gt;
+&lt;li&gt;將資源頁訂閱項目的圖示加入外邊框園角&lt;/li&gt;
+&lt;li&gt;內文頁加強文字的換行規則和上下邊距&lt;/li&gt;
+&lt;li&gt;解析器設定頁調整資料更新間隔時間的位置&lt;/li&gt;
+&lt;/ul&gt;
+</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
     <title>Release 1.0.4</title>
     <link href="https://officeren17.github.io/rssany-site/2021/05/05/Release_1.0.4/"/>
     <id>https://officeren17.github.io/rssany-site/2021/05/05/Release_1.0.4/</id>
     <published>2021-05-05T08:18:55.000Z</published>
-    <updated>2021-05-09T15:27:08.344Z</updated>
+    <updated>2021-05-13T16:42:32.265Z</updated>
     
     <content type="html"><![CDATA[<ul><li>修正文章內的文字斷行異常</li><li>修正文章內的表格過長會導致卷軸出錯的異常</li></ul>]]></content>
     
